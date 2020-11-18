@@ -1,0 +1,65 @@
+.navbar-header a:hover, .navbar-header a:focus {
+	text-decoration: none;
+}
+.navbar-header h1{
+	color: black;
+	 text-shadow: 1px 1px 1px #222;
+}
+.row{
+	margin: 10px;
+}
+#nav-header {
+	background-color:grey;
+	border-radius: 0;
+	border-bottom:2px solid ;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	margin-bottom: -10px;
+}
+#Headmen
+{
+	text-align: center;
+	text-shadow: 1px 1px 1px #222;
+	margin-bottom: 30px;
+}
+
+.Maincontent {
+	background-color: grey;
+	height: 1000px;
+	
+}
+.Maincontent h3 {
+	color: blue;
+	text-align: center;
+	padding: 5px;
+}
+
+@media (min-width: 992px){
+
+}
+@media (max-width: 767px){
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
